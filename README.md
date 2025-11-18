@@ -1,1 +1,4 @@
-# Molecular-Biology-Journey
+Bioinformatics 
+DNA sequencing 
+Fasta Format
+Biological Databases
