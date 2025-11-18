@@ -1,4 +1,1 @@
-Bioinformatics 
-DNA sequencing 
-Fasta Format
-Biological Databases
+https://github.com/zhrhqmr790-cmyk/Molecular-Biology-Journey.git
