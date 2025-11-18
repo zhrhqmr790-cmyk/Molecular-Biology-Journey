@@ -1,1 +1,4 @@
-https://github.com/zhrhqmr790-cmyk/Molecular-Biology-Journey.git
+Bioinformatics
+DNA Sequencing - Basic idea
+Fasta Format
+Biological Databases
