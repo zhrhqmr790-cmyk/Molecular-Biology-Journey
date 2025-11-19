@@ -43,7 +43,8 @@ BRCA1_HUMAN (UniProt ID: P38398)
 
 المصدر:
 https://www.uniprot.org
-
+رابط صفحة Uniprot خاصة به  
+https://www.uniprot.org/uniprotkb?query=BRCA1-HUMAN&view=cards
 
 ---
 
